@@ -94,7 +94,7 @@ a:focus {
 }
 
 .sub_page .header_section {
-  border-bottom: 1px solid #ff5722;
+  border-bottom: 1px solid #d60008;
 }
 
 .header_section {
@@ -138,7 +138,7 @@ a:focus {
 
 .custom_nav2 .custom_nav-container {
   padding: 5px 0;
-  background-color: #ff5722;
+  background-color: #d60008;
   -webkit-clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
           clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
 }
@@ -165,7 +165,11 @@ a:focus {
 }
 
 .navbar-brand span {
-  color: #ff5722;
+  color: #d8ce25;
+}
+
+.index_span {
+  color: #d60008;
 }
 
 .navbar-brand:hover {
@@ -329,17 +333,17 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 7px 0;
-  background-color: #ff5722;
+  background-color: #d60008;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #ff5722;
+  border: 1px solid #d60008;
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
   background-color: transparent;
-  color: #ff5722;
+  color: #d60008;
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
@@ -379,14 +383,14 @@ a:focus {
   height: 14px;
   opacity: 1;
   background-color: transparent;
-  border: 2px solid #ff5722;
+  border: 2px solid #d60008;
   border-radius: 100%;
 }
 
 .slider_section .carousel-indicators li.active {
   width: 18px;
   height: 18px;
-  border: 3px solid #ff5722;
+  border: 3px solid #d60008;
 }
 
 /* end slider section */
@@ -413,18 +417,18 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #ff5722;
+  background-color: #d60008;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #ff5722;
+  border: 1px solid #d60008;
   margin-top: 15px;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #ff5722;
+  color: #d60008;
 }
 
 .about_section ul {
@@ -437,7 +441,7 @@ a:focus {
 }
 
 .about_section ul i {
-  color: #ff5722;
+  color: #d60008;
   margin-right: 5px;
 }
 
@@ -471,7 +475,7 @@ a:focus {
 }
 
 .service_section .box .detail-box a {
-  color: #ff5722;
+  color: #d60008;
 }
 
 .service_section .btn-box {
@@ -487,17 +491,17 @@ a:focus {
 .service_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #ff5722;
+  background-color: #d60008;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #ff5722;
+  border: 1px solid #d60008;
 }
 
 .service_section .btn-box a:hover {
   background-color: transparent;
-  color: #ff5722;
+  color: #d60008;
 }
 
 .team_section .box {
@@ -512,6 +516,7 @@ a:focus {
 .team_section .box .img-box img {
   width: 100%;
 }
+
 
 .team_section .box .detail-box {
   position: absolute;
@@ -546,7 +551,7 @@ a:focus {
   height: 30px;
   border-radius: 100%;
   background-color: #ffffff;
-  color: #ff5722;
+  color: #d60008;
   line-height: 30px;
   margin: 0 2.5px;
 }
@@ -570,17 +575,17 @@ a:focus {
 .team_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #ff5722;
+  background-color: #d60008;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #ff5722;
+  border: 1px solid #d60008;
 }
 
 .team_section .btn-box a:hover {
   background-color: transparent;
-  color: #ff5722;
+  color: #d60008;
 }
 
 .contact_section {
@@ -640,19 +645,19 @@ a:focus {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
   padding: 10px 65px;
-  background-color: #ff5722;
+  background-color: #d60008;
   color: #ffffff;
   border-radius: 3px;
   -webkit-transition: all .3s;
   transition: all .3s;
-  border: 1px solid #ff5722;
+  border: 1px solid #d60008;
   color: #fff;
   margin-top: 10px;
 }
 
 .contact_section button:hover {
   background-color: transparent;
-  color: #ff5722;
+  color: #d60008;
 }
 
 .contact_section .img-box {
@@ -740,7 +745,7 @@ a:focus {
 }
 
 .client_section .box .detail-box i {
-  color: #ff5722;
+  color: #d60008;
   margin-bottom: 10px;
 }
 
@@ -763,15 +768,15 @@ a:focus {
   font-size: 24px;
   border-radius: 5px;
   margin: 0 15px;
-  border: 1px solid #ff5722;
-  background-color: #ff5722;
+  border: 1px solid #d60008;
+  background-color: #d60008;
   color: #ffffff;
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
   background-color: transparent;
-  color: #ff5722;
+  color: #d60008;
 }
 
 /* client section end */
@@ -846,7 +851,7 @@ a:focus {
 }
 
 .info_section .info_contact .link-box:hover i {
-  color: #ff5722;
+  color: #d60008;
 }
 
 .info_section .social_container {
@@ -876,7 +881,7 @@ a:focus {
 }
 
 .info_section .social-box a:hover {
-  color: #ff5722;
+  color: #d60008;
 }
 
 /* end info section */
